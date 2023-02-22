@@ -10,4 +10,4 @@
 ## Internal link
 [Images folder](https://github.com/fredymontalvo/authotring/tree/main/images)
 ## Image
-![Ein süßes Kätzchen](https://placekitten.com/200/300)
+![Ein süßes Kätzchen](https://github.com/DCI-FbW-WD-23-D02-A/BDL-publishing-authoring/blob/main/images/logo.png)
