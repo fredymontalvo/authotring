@@ -6,4 +6,4 @@
 - [x] Emojis
 - [x] Tables
 ## External Link 
-[Githup](https://help.github.com/en)
+[Githup documentation](https://help.github.com/en)
