@@ -7,3 +7,4 @@
 - [x] Tables
 ## External Link 
 [Githup documentation](https://help.github.com/en)
+## Internal link
