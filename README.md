@@ -5,4 +5,4 @@
 - [x] Images 
 - [x] Emojis
 - [x] Tables
-## External Link 
+## External Link (https://help.github.com/en)
