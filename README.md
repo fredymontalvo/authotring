@@ -8,5 +8,5 @@
 ## External Link 
 [Githup documentation](https://help.github.com/en)
 ## Internal link
-[Images folder](#top)
+[Images folder](https://github.com/fredymontalvo/authotring/tree/main/images)
 
