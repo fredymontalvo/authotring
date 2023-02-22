@@ -14,3 +14,5 @@
 ## Emoji
 :smile: 😢 :ok_hand:
 ## Table
+| NAME | CLASS |
+|------|-------|
