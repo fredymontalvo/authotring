@@ -5,4 +5,4 @@
 [x] Images 
 [x] Emojis
 [x] Tables
-## Githup Dokumentation https://help.github.com/en
+## External Link [https://help.github.com/en]
