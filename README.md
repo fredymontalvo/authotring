@@ -9,7 +9,7 @@
 [Githup documentation](https://help.github.com/en)
 ## Internal link
 [Images folder](https://github.com/fredymontalvo/authotring/tree/main/images)
-## Image <a name="top"></a>
+## Image 
 ![logoGithup](https://github.com/DCI-FbW-WD-23-D02-A/BDL-publishing-authoring/blob/main/images/logo.png)
 :smile: 😢 :ok_hand:
 ## Table
