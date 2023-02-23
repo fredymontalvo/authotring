@@ -1,6 +1,6 @@
 # Github Flavoured Markdown
 ## Check Boxes
-- [x] External Links[External Links](#el)
+- [x] [External Links](#el)
 - [x] Internal Links
 - [x] Images 
 - [x] Emojis
