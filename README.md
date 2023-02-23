@@ -5,7 +5,7 @@
 - [x] Images 
 - [x] Emojis
 - [x] Tables
-## External Link <a name="el">External links</a>
+## External Link <a name="el"></a>
 [Githup documentation](https://help.github.com/en)
 ## Internal link
 [Images folder](https://github.com/fredymontalvo/authotring/tree/main/images)
