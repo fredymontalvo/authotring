@@ -16,5 +16,5 @@
 ## Table
 | NAME | CLASS |
 |------|-------|
-| ROW  |   1   |
-| ROW  |   2   |
+| Luis  |   1   |
+| Markus |   2   |
